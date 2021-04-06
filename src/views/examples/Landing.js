@@ -185,7 +185,7 @@ class Landing extends React.Component {
                             301
                           </h6>
                           <p className="description mt-3">
-                            This is a place holder for 401 project.
+                            This is a place holder for 301 project.
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
